@@ -23,6 +23,10 @@ computer
 - https://www.audacityteam.org/
 - https://www.roomeqwizard.com/
 
+## Hardware
+
+- https://www.amazon.com/Tadeto-Portable-Backlight-Weighted-Factories/dp/B09G6HLNVV
+- 
 
 ## Citations
 
